@@ -53,7 +53,7 @@ var config = {
     bch: {
       livenet: {
         provider: 'insight',
-        //url: 'https://cashexplorer.bitcoin.com',
+        //url: 'https://cashexplorer.EINRcoin.com',
         url: 'https://bch-insight.bitpay.com:443',
         addressFormat: 'cashaddr',  // copay, cashaddr, or legacy
       },
@@ -83,7 +83,7 @@ var config = {
   //  port: 25,
   //  ignoreTLS: true,
   //  subjectPrefix: '[Wallet Service]',
-  //  from: 'wallet-service@bitcore.io',
+  //  from: 'wallet-service@EINRcore.io',
   //  templatePath: './lib/templates',
   //  defaultLanguage: 'en',
   //  defaultUnit: 'btc',
